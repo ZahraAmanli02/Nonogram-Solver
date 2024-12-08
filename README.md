@@ -93,9 +93,7 @@ The code is designed to be extensible. You can add new encoding approaches or mo
 
 
 ## Contact
-My mail: zahra.amanli@fau.de
-
-My personal mail: zahra.amanli.za@gmail.com
+My mail: zahra.amanli.za@gmail.com
 
 My LinkedIn profile: www.linkedin.com/in/zahra-amanli 
 
