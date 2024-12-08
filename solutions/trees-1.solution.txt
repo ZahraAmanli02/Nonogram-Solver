@@ -1,0 +1,12 @@
+bbbbb---b----bbbbb
+ba-------------ba-
+---abbb---abbb----
+----b--bbb---bbb--
+-b-bbbbb--b-bbbbb-
+-bbb-bbbbb-b-bbbbb
+-bbb-a---bbb--bbb-
+-bbbbba------bbba-
+--bbbbb--bbbbba---
+--ab-b----bbbbb---
+-ba----bb-----ab--
+bbbb----------ab--
